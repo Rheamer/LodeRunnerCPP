@@ -1,0 +1,9 @@
+﻿{
+  // See https://go.microsoft.com/fwlink/?linkid=834763 for more information about this file.
+  "configurations": [
+    {
+      "name": "loderunner-client",
+      "cacheRoot": "E:\\Dev VS\\xakaton\\CodeBattleCPP\\out\\build\\x64-Debug (default)"
+    }
+  ]
+}

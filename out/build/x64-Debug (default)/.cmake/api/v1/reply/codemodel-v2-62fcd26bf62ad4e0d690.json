@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "CodeBattleCppLibrary",
+					"childIndexes" : 
+					[
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "CodeBattleCppLibrary",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "CodeBattleCppLibrary/easywsclient",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "CodeBattleCppLibrary/easywsclient",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "loderunner-client",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "loderunner-client-library",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "easywsclient",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "easywsclient::@62ae9acd07c883fff24f",
+					"jsonFile" : "target-easywsclient-Debug-ced0f758cd971b072183.json",
+					"name" : "easywsclient",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loderunner-client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loderunner-client-Debug-78fb12a63705ce28ae31.json",
+					"name" : "loderunner-client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "loderunner-client-library::@a1c6385f6130b1068613",
+					"jsonFile" : "target-loderunner-client-library-Debug-8d73e276da602b9b0564.json",
+					"name" : "loderunner-client-library",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)",
+		"source" : "E:/Dev VS/xakaton/CodeBattleCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

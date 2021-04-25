@@ -1,0 +1,9 @@
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CMakeFiles/loderunner-client.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/CMakeFiles/loderunner-client-library.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/CMakeFiles/edit_cache.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/CMakeFiles/rebuild_cache.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/easywsclient/CMakeFiles/easywsclient.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/easywsclient/CMakeFiles/edit_cache.dir
+E:/Dev VS/xakaton/CodeBattleCPP/out/build/x64-Debug (default)/CodeBattleCppLibrary/easywsclient/CMakeFiles/rebuild_cache.dir
